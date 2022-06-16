@@ -1,5 +1,5 @@
 # 2D Movement
-Project files for our tutorial on 2D Movement in Unity.
+Project files for our tutorial on 2D Movement in Unity3d.
 
 The complete Unity project is under "2D Movement" and the newest version of the CharacterController2D can be found [here](https://github.com/Brackeys/2D-Character-Controller).
 
